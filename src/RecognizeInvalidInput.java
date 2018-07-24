@@ -2,8 +2,6 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import javax.xml.validation.Validator;
-
 public class RecognizeInvalidInput {
 
 	public static void main(String[] args) {
